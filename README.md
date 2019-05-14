@@ -7,9 +7,8 @@
 ### [3、程序猿郭小喵曾经的实习故事](https://juejin.im/post/583925e1ac502e006c137701)
 ### [4、程序员郭小喵创作故事](https://www.jianshu.com/p/ce35ceab3202)
 ### [5、郭小喵(CarGuo)的2018总结](https://juejin.im/post/5c38b653e51d4551b5092325)
-### [6、郭小喵(CarGuo)的2018总结](https://juejin.im/post/5c38b653e51d4551b5092325)
-### [7、我的移动开发春季历程](https://juejin.im/post/5c78992ee51d457139118396)
-### [8、GSY系列开源项目阶段感悟](https://juejin.im/post/5cd6a8ba51882568d06293b4)
+### [6、我的移动开发春季历程](https://juejin.im/post/5c78992ee51d457139118396)
+### [7、GSY系列开源项目阶段感悟](https://juejin.im/post/5cd6a8ba51882568d06293b4)
 
 
 
