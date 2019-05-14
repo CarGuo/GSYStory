@@ -2,9 +2,15 @@
 
 这里是一时想不开，把Github当博客用的地方，记录一些小故事ヽ(￣▽￣)ﾉ。额？更新？看心情。。。o(*￣3￣)o 
 
-### [1、程序猿郭小喵过去的大学故事，致迷茫的你我](./Store1.md)
-### [2、程序猿小郭的童话故事，从入门到蹲坑](./Store2.md)
-### [3、程序猿郭小喵曾经的实习故事](./Store3.md)
+### [1、程序猿郭小喵过去的大学故事，致迷茫的你我](https://juejin.im/post/583100942f301e005967982d)
+### [2、程序猿小郭的童话故事，从入门到蹲坑](https://juejin.im/post/582e94410ce463006cf140d1)
+### [3、程序猿郭小喵曾经的实习故事](https://juejin.im/post/583925e1ac502e006c137701)
+### [4、程序员郭小喵创作故事](https://www.jianshu.com/p/ce35ceab3202)
+### [5、郭小喵(CarGuo)的2018总结](https://juejin.im/post/5c38b653e51d4551b5092325)
+### [6、郭小喵(CarGuo)的2018总结](https://juejin.im/post/5c38b653e51d4551b5092325)
+### [7、我的移动开发春季历程](https://juejin.im/post/5c78992ee51d457139118396)
+### [8、GSY系列开源项目阶段感悟](https://juejin.im/post/5cd6a8ba51882568d06293b4)
 
 
-![来吧，互相XX](http://osvlwlt4g.bkt.clouddn.com/18-1-5/96342928.jpg)
+
+[ ![掘金](https://user-gold-cdn.xitu.io/2019/5/13/16ab12473a9e8e10?w=2096&h=1164&f=png&s=333799) ](https://juejin.im/user/582aca2ba22b9d006b59ae68/posts)
