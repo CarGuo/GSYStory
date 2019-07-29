@@ -9,6 +9,7 @@
 ### [5、郭小喵(CarGuo)的2018总结](https://juejin.im/post/5c38b653e51d4551b5092325)
 ### [6、我的移动开发春季历程](https://juejin.im/post/5c78992ee51d457139118396)
 ### [7、GSY系列开源项目阶段感悟](https://juejin.im/post/5cd6a8ba51882568d06293b4)
+### [8、一个程序员的五年总结，给你不一样的角度](https://juejin.im/post/5d3d8817518825348962e6c7)
 
 
 
