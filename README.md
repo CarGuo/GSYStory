@@ -10,6 +10,7 @@
 ### [6、我的移动开发春季历程](https://juejin.im/post/5c78992ee51d457139118396)
 ### [7、GSY系列开源项目阶段感悟](https://juejin.im/post/5cd6a8ba51882568d06293b4)
 ### [8、一个程序员的五年总结，给你不一样的角度](https://juejin.im/post/5d3d8817518825348962e6c7)
+### [9、2019大前端浪潮下的年度终结](https://juejin.im/post/5df701b751882512290f25f2)
 
 
 
