@@ -2,10 +2,7 @@
 
 这里是一时想不开，把Github当博客用的地方，记录一些小故事ヽ(￣▽￣)ﾉ。额？更新？看心情。。。o(*￣3￣)o 
 
-### 公众号 GSYTech
-![公众号](http://img.cdn.guoshuyu.cn/10F364A6-69F5-40C2-AB2A-124EEC1AD8CC.png)
-
-
+![公众号](http://img.cdn.guoshuyu.cn/WechatIMG3024.jpeg)
 
 ### [1、程序猿郭小喵过去的大学故事，致迷茫的你我](https://juejin.im/post/583100942f301e005967982d)
 ### [2、程序猿小郭的童话故事，从入门到蹲坑](https://juejin.im/post/582e94410ce463006cf140d1)
